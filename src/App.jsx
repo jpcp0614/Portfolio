@@ -4,7 +4,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
-import Portfolio from './components/portfolio/Portfolio';
+import Projects from './components/projects/Projects';
 
 const App = () => {
 	return (
@@ -12,7 +12,7 @@ const App = () => {
       <Header />
       <Nav />
       <About />
-      <Portfolio />
+      <Projects />
       <Contact />
       <Footer />
     </>
