@@ -65,15 +65,15 @@ header {
 
 
 /** --------MEDIUM DEVICES-------- */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 720px) {
   header {
-    height: 68vh;
+    height: 100vh;
   }
-} */
+}
 
 
 /** --------SMALL DEVICES-------- */
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 420px) {
   header {
     height: 100vh;
   }
@@ -81,4 +81,4 @@ header {
   .header__socials, .scroll__down {
     display: none;
   }
-} */
+}
