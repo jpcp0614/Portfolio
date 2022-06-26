@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.59841a30.css",
+    "main.js": "/portfolio/static/js/main.1a73936c.js",
+    "static/media/jp.png": "/portfolio/static/media/jp.688cea13d7d90d25b926.png",
+    "static/media/about-jp.jpg": "/portfolio/static/media/about-jp.1c9b0f011d656af7ecee.jpg",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.b22c8a5ebb87a629a1ab.png",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/joao-paulo_cv.pdf": "/portfolio/static/media/joao-paulo_cv.eefe54d11986f5564070.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.59841a30.css.map": "/portfolio/static/css/main.59841a30.css.map",
+    "main.1a73936c.js.map": "/portfolio/static/js/main.1a73936c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59841a30.css",
+    "static/js/main.1a73936c.js"
+  ]
+}
