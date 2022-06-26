@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/cv.txt';
+import CV from '../../assets/joao-paulo_cv.pdf';
 
 const Ct = () => {
 	return (
