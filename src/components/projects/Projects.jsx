@@ -6,7 +6,7 @@ import './Projects.css';
 const Projects = () => {
 	return (
 		<section id="projects">
-			<h5>Meus projetos mais recentes</h5>
+			<h5>Meus</h5>
 			<h2>Projetos</h2>
 
 			<div className="container project__container">
